@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "郑剑桥"
-description              : "AIML博士生，主要从事三维重建，3D点云相关的理论研究"
+description              : "AIML博士生，计算机视觉专业"
 repository               : "osiriszjq/osiriszjq.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Adelaide # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
