@@ -30,9 +30,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.03 -        *, <a href="https://www.adelaide.edu.au/"><img class="svg" src="/images/UoA_logo.svg" width="23pt"></a> 阿德莱德大学 AIML, 澳大利亚, 博士 
-- *2017.09 - 2019.06*, <a href="https://www.umich.edu/"><img class="svg" src="/images/Umich_logo.svg" width="20pt"></a> 密歇根大学 ECE, 美国, 研究生
-- *2013.09 - 2017.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/HIT_logo.svg" width="20pt"></a> 哈尔滨工业大学 英才学院（航天）, 黑龙江, 本科
+- *2021.03 -        *, <a href="https://www.adelaide.edu.au/"><img class="png" src="/images/UoA_logo.png" width="23pt"></a> 阿德莱德大学 AIML, 澳大利亚, 博士 
+- *2017.09 - 2019.06*, <a href="https://www.umich.edu/"><img class="png" src="/images/Umich_logo.svg" width="20pt"></a> 密歇根大学 ECE, 美国, 研究生
+- *2013.09 - 2017.06*, <a href="https://www.hit.edu.cn/"><img class="png" src="/images/HIT_logo.png" width="20pt"></a> 哈尔滨工业大学 英才学院（航天）, 黑龙江, 本科
 -  
 <span class='anchor' id='-lwzl'></span>
 
@@ -54,9 +54,11 @@ redirect_from:
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
 
-# 🏛️ 学术会议
-- *2022.10*, The 2022 European Conference on Computer Vision (ECCV 2022), 江苏南京, 海报
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-xshy'></span>
+
+# 🏛️ 学术会议
+- *2022.10*, The 2022 European Conference on Computer Vision (ECCV 2022), 以色列 特拉维夫, 海报
+
 
 
