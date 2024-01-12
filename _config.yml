@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "郑剑桥"
-description              : "主页"
+description              : "AIML博士生，主要从事三维重建，3D点云相关的理论研究"
 repository               : "osiriszjq/osiriszjq.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R8d2QOsAAAAJ"
   email            : "jianqiao.zheng@adelaide.edu.au"
-  researchgate     : ""
+  researchgate     : #""
   uri              : 
   bitbucket        :
   codepen          :
