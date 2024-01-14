@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我将博士毕业于澳大利亚的阿德莱德大学 Australian Institute for Machine Learning (AIML)学院，我的导师是Prof. Simon Lucey。研究生就读于美国密歇根大学安娜堡分校计算机视觉专业，本科毕业于哈尔滨工业大学英才学院自动化专业。包括合著，我已经发表5篇学术论文
- <a href='https://scholar.google.com/citations?user=R8d2QOsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=R8d2QOsAAAAJ'><img src="https://img.shields.io/endpoint?url={{u人了｜url_encode}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=R8d2QOsAAAAJ'></a>。
 
 我的研究领域包括：
 - 三维重建
@@ -44,6 +44,9 @@ redirect_from:
 
 -	'Jianqiao Zheng', Xueqian Li, Sameera Ramasinghe, Simon Lucey. Robust Point Cloud Processing through Positional Embedding. '3DV 2024'
 [[主页]](https://osiriszjq.github.io/complex_encoding) [[代码]](https://github.com/osiriszjq/complex_encoding) [[论文]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870142.pdf)
+
+</div>
+</div>
 
 
 
