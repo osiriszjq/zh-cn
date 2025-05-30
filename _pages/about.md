@@ -30,7 +30,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.03 -        *, <a href="https://www.adelaide.edu.au/"><img class="png" src="/images/UoA_logo.png" width="23pt"></a> 阿德莱德大学 AIML, 澳大利亚, 博士 
+- *2021.03 - 2025.06*, <a href="https://www.adelaide.edu.au/"><img class="png" src="/images/UoA_logo.png" width="23pt"></a> 阿德莱德大学 AIML, 澳大利亚, 博士 
 - *2017.09 - 2019.06*, <a href="https://www.umich.edu/"><img class="png" src="/images/Umich_logo.png" width="20pt"></a> 密歇根大学 ECE, 美国, 研究生
 - *2013.09 - 2017.06*, <a href="https://www.hit.edu.cn/"><img class="png" src="/images/HIT_logo.png" width="20pt"></a> 哈尔滨工业大学 英才学院（航天）, 黑龙江, 本科
 -  
