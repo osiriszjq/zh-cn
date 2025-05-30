@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于澳大利亚的阿德莱德大学 Australian Institute for Machine Learning (AIML)学院，我的导师是Prof. Simon Lucey。研究生就读于美国密歇根大学安娜堡分校计算机视觉专业，本科毕业于哈尔滨工业大学英才学院自动化专业。包括合著，我已经发表5篇学术论文
- <a href='https://scholar.google.com/citations?user=R8d2QOsAAAAJ'></a>。
+我将博士毕业于澳大利亚的阿德莱德大学 Australian Institute for Machine Learning (AIML)学院，我的导师是Prof. Simon Lucey。研究生就读于美国密歇根大学安娜堡分校计算机视觉专业，本科毕业于哈尔滨工业大学英才学院自动化专业。包括合著，我已经发表5篇学术论文<a href='https://scholar.google.com/citations?user=R8d2QOsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 三维重建
