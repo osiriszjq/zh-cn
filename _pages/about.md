@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	'Jianqiao Zheng', Xueqian Li, Sameera Ramasinghe, Simon Lucey. Robust Point Cloud Processing through Positional Embedding. '3DV 2024'
-[[主页]](https://osiriszjq.github.io/complex_encoding) [[代码]](https://github.com/osiriszjq/complex_encoding) [[论文]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870142.pdf)
+[[主页]](https://osiriszjq.github.io/robustPPE) [[代码]](https://github.com/osiriszjq/robustPPE) [[论文]](https://arxiv.org/pdf/2309.00339.pdf)
 
 </div>
 </div>
@@ -53,7 +53,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	'Jianqiao Zheng', Sameera Ramasinghe, Xueqian Li, Simon Lucey. Trading Positional Complexity vs. Deepness in Coordinate Networks. 'ECCV 2022'
-[[主页]](https://osiriszjq.github.io/robustPPE) [[代码]](https://github.com/osiriszjq/robustPPE) [[论文]](https://arxiv.org/pdf/2309.00339.pdf)
+[[主页]](https://osiriszjq.github.io/complex_encoding) [[代码]](https://github.com/osiriszjq/complex_encoding) [[论文]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870142.pdf)
 
 
 </div>
