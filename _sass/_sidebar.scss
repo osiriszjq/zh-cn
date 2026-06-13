@@ -237,6 +237,13 @@
     white-space: nowrap;
   }
 
+  .author__email-display {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
