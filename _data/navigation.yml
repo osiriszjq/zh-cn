@@ -3,12 +3,20 @@ main:
   - title: "简介"
     url: "/zh-cn/#about-me"
 
-  - title: "学历"
-    url: "/zh-cn/#-xl"
-
   - title: "论文"
-    url: "/zh-cn/#-lw"
+    url: "/zh-cn/#-publications"
 
-  - title: "实习"
-    url: "/zh-cn/#-sx"
+  - title: "项目"
+    url: "/zh-cn/#-projects"
 
+  - title: "工作经历"
+    url: "/zh-cn/#-appointments"
+
+  - title: "教育背景"
+    url: "/zh-cn/#-education"
+
+  - title: "教学经历"
+    url: "/zh-cn/#-teaching"
+
+  - title: "荣誉奖励"
+    url: "/zh-cn/#-honors"

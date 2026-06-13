@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "郑剑桥"
-description              : "AIML博士生\n计算机视觉专业"
+description              : "人工智能学院<br>中国地质大学（北京）"
 repository               : "osiriszjq/zh-cn"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "郑剑桥"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "阿德莱德大学"
-  location         : "阿德莱德 澳大利亚"
+  bio              : "讲师"
+  location         : "北京，中国"
   employer         : #""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R8d2QOsAAAAJ"
-  email            : "jianqiao.zheng@adelaide.edu.au"
+  email            :
+  email_display    : "jianqiaozheng [at] cugb [dot] edu [dot] cn"
   researchgate     : #""
   uri              : 
   bitbucket        :
