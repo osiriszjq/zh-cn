@@ -10,10 +10,6 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-  background:
-    linear-gradient(90deg, rgba(47, 111, 104, 0.025) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(47, 111, 104, 0.025) 1px, transparent 1px);
-  background-size: 26px 26px;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -65,7 +61,9 @@
     }
   }
   h1 {
+    position: relative;
     margin-top: 1em;
+    padding-left: 1.05em;
     padding-bottom: 0.45em;
     border-bottom: 1px solid $border-color;
     color: #26312e;
@@ -73,12 +71,13 @@
 
     &:after {
       content: "";
-      display: inline-block;
+      position: absolute;
+      left: 0;
+      top: 0.38em;
+      display: block;
       width: 0.62em;
       height: 0.62em;
-      margin-left: 0.45em;
       border: 2px solid #b23a2f;
-      transform: translateY(-0.05em);
       opacity: 0.9;
     }
   }
