@@ -46,8 +46,12 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
+    border-bottom: 1px #e5dfd2 solid;
     padding: 2em 0 2em 0;
+    background:
+        linear-gradient(90deg, rgba(47, 111, 104, 0.035) 1px, transparent 1px),
+        linear-gradient(180deg, rgba(47, 111, 104, 0.035) 1px, transparent 1px);
+    background-size: 22px 22px;
     
 
     .paper-box-image{
@@ -57,7 +61,9 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border: 1px solid #d9d0c0;
+            border-radius: 4px;
+            box-shadow: 0 8px 20px rgba(47, 52, 50, 0.12);
             object-fit: cover;
         }
     }
@@ -98,12 +104,14 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.18rem 0.72rem;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
+    color: #fbfaf6;
+    background-color: #2f6f68;
+    border-left: 4px solid #b23a2f;
+    border-radius: 0 3px 3px 0;
+    box-shadow: 0 4px 12px rgba(47, 52, 50, 0.12);
     font-size: .8em;
 }

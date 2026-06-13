@@ -56,19 +56,19 @@
    $light-gray                 : mix(#fff, $gray, 50%);
    $lighter-gray               : mix(#fff, $gray, 90%);
    
-   $body-color                 : #fff;
-   $background-color           : #fff;
-   $code-background-color      : #EDEDEB;
-   $code-text-color           : #E65555;
+   $body-color                 : #fbfaf6;
+   $background-color           : #fbfaf6;
+   $code-background-color      : #f0ede5;
+   $code-text-color           : #b23a2f;
    $code-background-color-dark : $light-gray;
-   $text-color                 : $dark-gray;
-   $border-color               : $lighter-gray;
+   $text-color                 : #2f3432;
+   $border-color               : #e5dfd2;
    
-   $primary-color              : #7a8288;
+   $primary-color              : #6f7a72;
    $success-color              : #62c462;
    $warning-color              : #f89406;
    $danger-color               : #ee5f5b;
-   $info-color                 : #224b8d;
+   $info-color                 : #2f6f68;
    // $info-color                 : #52adc8;
    
    /* brands */

@@ -10,6 +10,10 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  background:
+    linear-gradient(90deg, rgba(47, 111, 104, 0.025) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(47, 111, 104, 0.025) 1px, transparent 1px);
+  background-size: 26px 26px;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -62,8 +66,21 @@
   }
   h1 {
     margin-top: 1em;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.45em;
     border-bottom: 1px solid $border-color;
+    color: #26312e;
+    font-weight: 700;
+
+    &:after {
+      content: "";
+      display: inline-block;
+      width: 0.62em;
+      height: 0.62em;
+      margin-left: 0.45em;
+      border: 2px solid #b23a2f;
+      transform: translateY(-0.05em);
+      opacity: 0.9;
+    }
   }
 
   p, li, dl {
@@ -84,9 +101,13 @@
   }
 
   a {
-    text-decoration: auto;
+    color: $link-color;
+    text-decoration: none;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
 
     &:hover {
+      color: #b23a2f;
       text-decoration: underline;
       
     img {
@@ -416,9 +437,10 @@
   align-items: center;
 }
 .page_a {
-  color: #224b8d;
+  color: #2f6f68;
   text-decoration: none;
   &:hover {
+    color: #b23a2f;
     text-decoration: underline;}
 }
 hr {
@@ -428,6 +450,7 @@ hr {
 
 .footer_copyright{
   font-family: $sans-serif-narrow;
+  color: #6f7a72;
   margin-top: 0.5em;
   margin-bottom: 1em;
   display: flex;
