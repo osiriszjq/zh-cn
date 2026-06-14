@@ -61,25 +61,11 @@
     }
   }
   h1 {
-    position: relative;
     margin-top: 1em;
-    padding-left: 1.05em;
     padding-bottom: 0.45em;
     border-bottom: 1px solid $border-color;
     color: #26312e;
     font-weight: 700;
-
-    &:after {
-      content: "";
-      position: absolute;
-      left: 0;
-      top: 0.38em;
-      display: block;
-      width: 0.62em;
-      height: 0.62em;
-      border: 2px solid #b23a2f;
-      opacity: 0.9;
-    }
   }
 
   p, li, dl {
